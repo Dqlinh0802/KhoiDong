@@ -1,2 +1,6 @@
 abc
+<<<<<<< HEAD
 ab
+=======
+ac
+>>>>>>> 6fab9cc6b3e47c838abdb39cd1a2281adf92d1ba
